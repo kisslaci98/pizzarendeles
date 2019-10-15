@@ -1,0 +1,16 @@
+legend {
+    text-align: center;
+}
+
+.regio {
+    float: left;
+    width: 47%;
+    height: 200px;
+    margin: 0 5px;
+}
+
+td {
+    border: 2px solid magenta;
+    padding: 5px;
+    text-align: center;
+}
